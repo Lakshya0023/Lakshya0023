@@ -25,23 +25,14 @@ _|    _|  _|    _|  _|            _|      _|    _|
 ```
 
 ```
-OS:        BTech CSE (Cybersecurity), VIT Vellore — 2025-2029
-Kernel:    Java / Python / C++ / C
-Languages: HTML, CSS, Java, Python, C++, C
-Memory:    Building AI-DevOps + full-stack systems since 2026
-Uptime:    training for a Software Engineering internship
-```
+
 
 ---
 
 ### 🛠️ Currently
 
 ```
-learning:   Kubernetes internals, LangGraph agents, cybersecurity fundamentals
-building:   AI DevOps Agent — closed-loop Kubernetes auto-healing
-targeting:  SWE / AI-DevOps internships
-chasing:    shipping projects that actually run in production, not just demos
-```
+
 
 ---
 
