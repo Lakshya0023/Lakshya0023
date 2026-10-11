@@ -113,7 +113,7 @@ open_to:    internships, hackathons, collaborations
 
 <br/>
 
-*""Everything was fine until someone pushed to main.""*
+*""Everything was fine until someone pushed to main......""*
 
 </div>
 
