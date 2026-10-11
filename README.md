@@ -56,7 +56,7 @@ open_to:    internships, hackathons, collaborations
 | Project | What it does | Stack |
 | ------- | ------------ | ----- |
 | **[GridSense](https://github.com/Lakshya0023/GRIDSENSE)** | GAT-based power-grid risk prediction over ~22K assets and ~23K lines. Predict → Propagate → Pinpoint → Prevent pipeline with root-cause analysis, early warning, RUL estimation and what-if simulation | Python, PyTorch, GAT, FastAPI, React, PostgreSQL |
-| **[AI DevOps Agent — Kubernetes Auto-Healing](https://github.com/Lakshya0023/YOUR-K8S-REPO)** | Closed-loop agent that detects, diagnoses, remediates and verifies Kubernetes failures using logs, metrics and cluster events | Python, LangGraph, Ollama, Prometheus, Grafana, Docker |
+| **[AI DevOps Agent — Kubernetes Auto-Healing](https://github.com/Lakshya0023/KUBERNETES-AUTO-HEALING-AI-AGENT)** | Closed-loop agent that detects, diagnoses, remediates and verifies Kubernetes failures using logs, metrics and cluster events | Python, LangGraph, Ollama, Prometheus, Grafana, Docker |
 | **[BhoomiSeva — DEBUGGERS_INNOHACK](https://github.com/Lakshya0023/DEBUGGERS_INNOHACK)** | National digital land-governance platform: parcel registry, interactive map explorer, grievance tracking, ML price forecasting (InnoHack 2.0) | Flask, SQLite, D3.js, scikit-learn |
 | **[Supply Chain & Warehouse Management](https://github.com/Lakshya0023/DATABASE_PROJECT)** | Full-stack inventory and logistics tracker covering purchase orders, sales orders and shipments across warehouses | Python, Flask, PostgreSQL |
 
