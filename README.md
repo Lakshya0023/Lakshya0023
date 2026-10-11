@@ -113,7 +113,7 @@ open_to:    internships, hackathons, collaborations
 
 <br/>
 
-*"the present is the cheap part — the compound interest is in the reps you put in before anyone's watching."*
+*""Everything was fine until someone pushed to main.""*
 
 </div>
 
