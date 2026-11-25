@@ -1,120 +1,75 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=150&section=header" alt="header" />
-
+<!-- Custom profile / Lakshya Gupta. SVG artwork is stored locally in assets/. -->
 <div align="center">
-  <img src="./name-3d.svg" alt="Lakshya Gupta" width="760" />
-</div>
+  <img src="./assets/hero.svg" width="100%" alt="Lakshya Gupta — Intelligent systems. Resilient infrastructure. AI, DevOps, cybersecurity and backend engineering. Open to internships." />
+  <a href="https://lakshya0023.github.io/lakshya-portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-101C2D?style=for-the-badge&logo=githubpages&logoColor=5FFFD2" /></a>
+<a href="https://www.linkedin.com/in/lakshya-gupta-894483432/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-101C2D?style=for-the-badge&logo=linkedin&logoColor=76A9FF" /></a>
+<a href="mailto:lakshyagupta5511@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-101C2D?style=for-the-badge&logo=gmail&logoColor=FFCB83" /></a>
+  <p><a href="#01--about">About</a> &nbsp;·&nbsp; <a href="#02--selected-engineering-work">Projects</a> &nbsp;·&nbsp; <a href="#03--engineering-toolkit">Stack</a> &nbsp;·&nbsp; <a href="#04--beyond-the-code">Achievements</a> &nbsp;·&nbsp; <a href="#05--lets-build">Contact</a></p>
+</div>01 / About
+I'm Lakshya Gupta, a B.Tech Computer Science (Cybersecurity) student at VIT Vellore (2025–2029). I build software at the intersection of AI, backend engineering, cloud infrastructure and defensive security.
 
+My favorite problems are the ones where software must make sense of complex signals, reason about failures and help people make better decisions. I enjoy taking ideas from architecture and APIs to working prototypes and dashboards.
+identity:    software engineering student
+focus:       AI agents | backend systems | DevOps | cybersecurity
+exploring:   distributed systems, LLM orchestration, DSA
+principles:  design for failure, verify outcomes, keep humans in control
+available:   software engineering, backend and AI/ML internships
+02 / Selected engineering work
+<a href="https://github.com/Lakshya0023/GRIDSENSE"><img src="./assets/grid.svg" width="100%" alt="GridSense — power grid risk prediction with graph machine learning" /></a>
+
+GridSense · Graph-based power-grid risk prediction and decision support.
+- Models a grid of approximately 22K assets and 23K lines using graph attention networks.
+- Combines risk prediction, failure propagation, root-cause analysis and what-if simulation to help operators assess preventive actions.
+- Stack: Python · PyTorch · GAT · FastAPI · React · PostgreSQL
+Explore repository ↗
+
+<a href="https://github.com/Lakshya0023/KUBERNETES-AUTO-HEALING-AI-DEVOPS--AGENT"><img src="./assets/kube.svg" width="100%" alt="Kubernetes Auto-Healing — policy-gated AI remediation loop" /></a>
+
+Kubernetes Auto-Healing AI Agent · An AI-assisted SRE system for diagnosing and recovering from workload failures.
+- Uses logs, metrics and cluster events to investigate failures such as OOMKilled and CrashLoopBackOff.
+- Incorporates policy checks, human approval for risky actions and post-action verification into its remediation workflow.
+- Stack: Python · LangGraph · Ollama · Kubernetes · Prometheus · Grafana · Docker
+Explore repository ↗  ·  Web interface ↗
+
+<a href="https://github.com/Lakshya0023/NETWORK-INTRUSION-AI-BASED-THREAT-DETECTION-SYSTEM"><img src="./assets/nids.svg" width="100%" alt="Network Intrusion Detection — traffic analysis and anomaly detection" /></a>
+
+Network Intrusion Detection System (NIDS) · A defensive security platform for identifying suspicious traffic patterns.
+- Analyzes packet-level statistics and uses anomaly detection to surface activity worth investigating.
+- Combines a Python analysis backend, alert APIs and a visual dashboard for security insights.
+- Stack: Python · FastAPI · scikit-learn · SQLite · React
+Explore repository ↗  ·  Web interface ↗
+More from the lab
+Project	Engineering focus
+BhoomiSeva	Digital land governance: parcel registry, map explorer, grievance tracking and ML price forecasting.
+Autonomous Human-AI Maintenance Copilot	Industrial maintenance prototype using a digital machine simulator and AI-assisted workflows.
+Supply Chain & Warehouse Management	Inventory and logistics workflows spanning purchases, sales orders and shipments.
+
+
+Browse all repositories ↗
+03 / Engineering toolkit
+Layer	Technologies
+Languages	Python · Java · C++ · C · JavaScript
+Backend & data	FastAPI · Flask · REST APIs · PostgreSQL · SQLite · MySQL
+AI & machine learning	PyTorch · scikit-learn · Pandas · LangGraph · Ollama
+Cloud & infrastructure	Docker · Kubernetes · Prometheus · Grafana · Linux
+Frontend	React · HTML · CSS · D3.js
+Developer workflow	Git · GitHub · VS Code · Postman · Wireshark
+
+
+CS foundations: Data Structures & Algorithms · OOP · DBMS · Computer Networks · Operating Systems · Cybersecurity Fundamentals
+04 / Beyond the code
+- Hackathons: Runner-up achievement and top-15 team finishes in multiple hackathons.
+- McKinsey Forward: Forward Learner; developing structured problem-solving and communication skills.
+- AI Tools & ChatGPT Workshop: be10X, June 2026.
+- AI Tools Training: House of EdTech, 2026.
+What I bring to a team
+I like to work across the stack: understanding the problem, designing the system, implementing APIs and models, debugging integrations and presenting a usable prototype. I value clear communication, thoughtful engineering trade-offs and feedback that makes the next iteration better.
+05 / Let's build
+I'm open to software engineering, backend, AI/ML, DevOps and cybersecurity internships, as well as hackathon collaborations and meaningful open-source work.
+
+If you're working on intelligent systems, reliable infrastructure or developer tools, I'd love to hear what you're building.
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=720&lines=whoami+%3D%3E+Lakshya+Gupta;role+%3D+%22CSE+%28Cybersecurity%29+%40+VIT+Vellore%22;building+%3D+%22AI+%2B+DevOps+%2B+Full-Stack+systems%22;status+%3D+%22building+in+public%22" alt="Typing SVG" />
-  </a>
+  <a href="https://lakshya0023.github.io/lakshya-portfolio/">Portfolio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/lakshya-gupta-894483432/">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:lakshyagupta5511@gmail.com">Email me</a>
+  <br /><br />
+  <sub>Build with curiosity. Debug with patience. Ship with purpose.</sub>
 </div>
-
-<br/>
-
-<div align="center">
-
-![OS](https://img.shields.io/badge/OS-Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF9C&labelColor=0d1117)
-![Shell](https://img.shields.io/badge/Shell-bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF9C&labelColor=0d1117)
-![Focus](https://img.shields.io/badge/Focus-AI%20%2B%20DevOps-000000?style=for-the-badge&logo=kubernetes&logoColor=00FF9C&labelColor=0d1117)
-![Track](https://img.shields.io/badge/Track-Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF9C&labelColor=0d1117)
-
-</div>
-
----
-
-```text
-  ╭────────────────────────────────────────────────────╮
-  │  OS:        BTech CSE (Cybersecurity), 2025-2029   │
-  │  Host:      Vellore Institute of Technology        │
-  │  Kernel:    Python / Java / C++ / C                │
-  │  Shell:     Git, Linux CLI, Docker, Kubernetes     │
-  │  Human:     English, Hindi                         │
-  │  Uptime:    shipping AI systems & hackathon builds │
-  ╰────────────────────────────────────────────────────╯
-```
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lakshya0023&label=PROFILE+VIEWS&color=00FF9C&style=for-the-badge&labelColor=0d1117" alt="views" />
-</div>
-
----
-
-### 📡 Currently
-
-```yaml
-learning:   [DSA, Cybersecurity fundamentals, Kubernetes, LLM agents]
-building:   AI DevOps agents and grid-risk prediction systems
-programme:  McKinsey Forward (Forward Learner)
-open_to:    internships, hackathons, collaborations
-```
-
----
-
-### 🛠 Featured builds
-
-| Project | What it does | Stack |
-| ------- | ------------ | ----- |
-| **[GridSense](https://github.com/Lakshya0023/GRIDSENSE)** | GAT-based power-grid risk prediction over ~22K assets and ~23K lines. Predict → Propagate → Pinpoint → Prevent pipeline with root-cause analysis, early warning, RUL estimation and what-if simulation | Python, PyTorch, GAT, FastAPI, React, PostgreSQL |
-| **[AI DevOps Agent — Kubernetes Auto-Healing](https://github.com/Lakshya0023/KUBERNETES-AUTO-HEALING-AI-AGENT)** | Closed-loop agent that detects, diagnoses, remediates and verifies Kubernetes failures using logs, metrics and cluster events | Python, LangGraph, Ollama, Prometheus, Grafana, Docker |
-| **[BhoomiSeva — DEBUGGERS_INNOHACK](https://github.com/Lakshya0023/DEBUGGERS_INNOHACK)** | National digital land-governance platform: parcel registry, interactive map explorer, grievance tracking, ML price forecasting (InnoHack 2.0) | Flask, SQLite, D3.js, scikit-learn |
-| **[Supply Chain & Warehouse Management](https://github.com/Lakshya0023/db_project)** | Full-stack inventory and logistics tracker covering purchase orders, sales orders and shipments across warehouses | Python, Flask, PostgreSQL |
-
----
-
-### ⚙️ Toolbelt
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,react,fastapi,flask,pytorch,docker,kubernetes,prometheus,grafana,postgres,mysql,sqlite,git,github,linux,vscode,idea,eclipse,postman&theme=dark" alt="skills" />
-<br/><br/>
-<img src="https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logo=langchain&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logo=ollama&logoColor=00FF9C" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-
-</div>
-
-**Core concepts:** OOP · Data Structures & Algorithms · DBMS · Computer Networks · Cybersecurity Fundamentals
-
----
-
-### 🏅 Certifications & learning
-
-- **AI Tools & ChatGPT Workshop** — be10X (June 2026)
-- **AI Tools Training** — House of EdTech (2026)
-- **McKinsey Forward** — problem-solving, hypothesis-driven thinking and client communication
-
----
-
-### 📊 GitHub stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Lakshya0023&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=14400&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya0023&layout=compact&hide_border=true&bg_color=0d1117&title_color=00FF9C&text_color=c9d1d9" alt="top langs" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Lakshya0023&hide_border=true&background=0d1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&currStreakNum=ffffff&sideLabels=c9d1d9&sideNums=ffffff&dates=8b949e" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshya0023&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&area_color=00ff9c&hide_border=true" alt="activity graph" />
-</div>
-
----
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/lakshya-gupta-894483432"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:lakshyagupta5511@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF9C" /></a>
-
-<br/>
-
-*"Everything was fine until someone pushed it to main.........."*
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
